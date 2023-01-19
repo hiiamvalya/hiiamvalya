@@ -2,7 +2,7 @@
 Я <b>Валентина Шеховская</b>, Тестировщик ПО/ QA Engineer.
 
 ### Контакты
-Email: yourvalenti@gmail.com
+Email: yourvalenti@gmail.com   
 Telegram: https://t.me/vava321
 
 ### Дипломы и сертификаты
